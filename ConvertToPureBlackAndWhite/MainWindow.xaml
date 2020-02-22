@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:ConvertToPureBlackAndWhite"
         xmlns:xctk="http://schemas.xceed.com/wpf/xaml/toolkit"
         mc:Ignorable="d"
-        Title="MainWindow" Height="180" Width="300">
+        Title="MainWindow" Height="200" Width="300">
     <Grid>
         <StackPanel Margin="10" VerticalAlignment="Center">
             <ProgressBar x:Name="ProcessingProgressBar" Height="18" Margin="0 0 0 5"/>
@@ -50,6 +50,18 @@
                     Click="ConvertButton_Click"
                     Content="Convert">
             </Button>
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="120"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock Grid.Column="0" Text="Version: v1.0.0.0"/>
+                <TextBlock Grid.Column="1">           
+                    <Hyperlink NavigateUri="https://github.com/SamyLearningNote/ConvertToPureBlackAndWhite/releases" RequestNavigate="Hyperlink_RequestNavigate">
+                        Check for update
+                    </Hyperlink>
+                </TextBlock>
+            </Grid>
         </StackPanel>
     </Grid>
 </Window>

@@ -43,6 +43,8 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Diagnostics;
+using System.Windows.Navigation;
 
 namespace ConvertToPureBlackAndWhite
 {
@@ -180,5 +182,12 @@ namespace ConvertToPureBlackAndWhite
             return saperatedFileName[0] + ".png";
         }
 
+        // Reference:
+        // https://stackoverflow.com/questions/10238694/example-using-hyperlink-in-wpf
+        private void Hyperlink_RequestNavigate(object sender, RequestNavigateEventArgs e)
+        {
+            Process.Start(new ProcessStartInfo(e.Uri.AbsoluteUri));
+            e.Handled = true;
+        }
     }
 }
