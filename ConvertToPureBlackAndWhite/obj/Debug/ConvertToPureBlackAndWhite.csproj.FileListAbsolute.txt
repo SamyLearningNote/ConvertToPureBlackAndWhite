@@ -1,0 +1,16 @@
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\bin\Debug\ConvertToPureBlackAndWhite.exe.config
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\bin\Debug\ConvertToPureBlackAndWhite.exe
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\bin\Debug\ConvertToPureBlackAndWhite.pdb
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite.csprojAssemblyReference.cache
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\MainWindow.g.cs
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\App.g.cs
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite_MarkupCompile.cache
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite_MarkupCompile.lref
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\MainWindow.baml
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite.g.resources
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite.Properties.Resources.resources
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite.csproj.GenerateResource.cache
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite.exe
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite.pdb
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\c2638\Desktop\ConvertToPureBlackAndWhite\ConvertToPureBlackAndWhite\obj\Debug\ConvertToPureBlackAndWhite.csproj.CopyComplete
