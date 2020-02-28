@@ -180,7 +180,13 @@ namespace ConvertToPureBlackAndWhite
         {
             string[] pathSection = originalFilePath.Split('\\');
             string[] saperatedFileName = pathSection[pathSection.Length - 1].Split('.');
-            return saperatedFileName[0] + ".png";
+            // concat the file name that contain dots
+            string outputFileName = "";
+            for (int i = 0; i < saperatedFileName.Length; i++)
+            {
+                outputFileName += saperatedFileName[i];
+            }
+            return outputFileName + ".png";
         }
 
         // Reference:
