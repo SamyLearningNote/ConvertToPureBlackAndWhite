@@ -1,6 +1,7 @@
 # Device Wakeup Manager
-Convert all the images in the folder to pure blace and white images
-BMP, GIF, EXIF, JPG, PNG and TIFF are supported
+Convert all the images in the folder to pure blace and white images.
+BMP, GIF, EXIF, JPG, PNG and TIFF are supported.
+The output files are in PNG format.
 
 # How To Use
 1. Extract all the files and put them wherever you want(put all files in the same folder)
