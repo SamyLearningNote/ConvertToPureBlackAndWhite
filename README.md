@@ -1,4 +1,4 @@
-# Device Wakeup Manager
+# Convert To Pure Black And White
 Convert all the images in the folder to pure blace and white images.
 BMP, GIF, EXIF, JPG, PNG and TIFF are supported.
 The output files are in PNG format.
